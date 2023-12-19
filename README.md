@@ -66,3 +66,7 @@ If you'd like to contribute to this repository, feel free to open an issue or su
 ## Database and Table Creation
 
 sql scripts for creating db/table is found in the respective directories. Please delete the demo database before running the script.
+
+## Online Course
+
+For an in-depth understanding of JDBC, consider enrolling in the [Java Database Connectivity with MySQL using JDBC](https://www.udemy.com/course/java-database-connectivity-with-mysql-using-jdbc/) course on Udemy.
